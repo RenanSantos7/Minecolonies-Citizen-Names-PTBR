@@ -8,6 +8,10 @@ Este é um datapack para Minecraft que adiciona nomes em português brasileiro a
 - Adiciona uma lista variada de nomes e sobrenomes em português brasileiro para os cidadãos do mod Minecolonies.
 - Substitui os nomes padrão em inglês por opções locais, com foco na diversidade e autenticidade cultural.
 
+>[!Important]
+>O datapack não subsitui os nomes do cidadãos existentes.
+>Apenas os novos cidadãos serão gerados com os nomes em português.
+
 ---
 
 ### 🛠️ Instalação
