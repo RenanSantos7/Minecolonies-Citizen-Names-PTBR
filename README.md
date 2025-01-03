@@ -1,4 +1,4 @@
-## Minecolonies-Citizen-Names-PTBR
+## Minecolonies Citizen Names (ptBR)
 
 Este é um datapack para Minecraft que adiciona nomes em português brasileiro ao mod [Minecolonies](https://www.minecolonies.com/). Ele personaliza os nomes dos cidadãos gerados pelo mod, tornando a experiência mais imersiva para jogadores que falam português.
 
