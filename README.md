@@ -15,8 +15,8 @@ Este é um datapack para Minecraft que adiciona nomes em português brasileiro a
    - Minecraft Java Edition (versão compatível com o mod Minecolonies).  
    - Mod Minecolonies instalado corretamente.
 
-3. **Instalação no Jogo**
-   - Baixe o arquivo citizennames.zip acima.
+2. **Instalação no Jogo**
+   - Baixe o arquivo [citizennames.zip](https://github.com/RenanSantos7/Minecolonies-Citizen-Names-PTBR/raw/refs/heads/main/citizennames.zip) acima.
    - Navegue até o diretório do seu mundo no Minecraft (`.minecraft/saves/NOME_DO_MUNDO`).
    - Coloque a pasta do datapack em:  
      `datapacks/Minecolonies-Citizen-Names-PTBR`.
